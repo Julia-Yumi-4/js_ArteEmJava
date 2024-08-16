@@ -1,0 +1,3 @@
+function modonoturno (Horario) {
+ if (Horario > 18) {
+console.log
