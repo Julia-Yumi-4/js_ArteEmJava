@@ -1,5 +1,4 @@
 function modonoturno (Horario) {
  if (Horario > 18) {
 console.log
- print (´´boa noite!´´)
-else (´´a noite ainda está por vir!´´) 
+ 
